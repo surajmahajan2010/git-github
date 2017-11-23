@@ -1,2 +1,2 @@
 # git-github
-tutorial
+The is just for verification purpose..
